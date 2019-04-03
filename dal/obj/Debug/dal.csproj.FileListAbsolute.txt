@@ -1,0 +1,8 @@
+C:\Users\vivek\Documents\Visual Studio 2015\Projects\myapplicationdiscon\dal\bin\Debug\dal.dll.config
+C:\Users\vivek\Documents\Visual Studio 2015\Projects\myapplicationdiscon\dal\bin\Debug\dal.dll
+C:\Users\vivek\Documents\Visual Studio 2015\Projects\myapplicationdiscon\dal\bin\Debug\dal.pdb
+C:\Users\vivek\Documents\Visual Studio 2015\Projects\myapplicationdiscon\dal\bin\Debug\bel.dll
+C:\Users\vivek\Documents\Visual Studio 2015\Projects\myapplicationdiscon\dal\bin\Debug\bel.pdb
+C:\Users\vivek\Documents\Visual Studio 2015\Projects\myapplicationdiscon\dal\obj\Debug\dal.csprojResolveAssemblyReference.cache
+C:\Users\vivek\Documents\Visual Studio 2015\Projects\myapplicationdiscon\dal\obj\Debug\dal.dll
+C:\Users\vivek\Documents\Visual Studio 2015\Projects\myapplicationdiscon\dal\obj\Debug\dal.pdb
